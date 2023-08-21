@@ -1,0 +1,1053 @@
+/Users/joetruncale/IdeaProjects/maps-reviews/venv/bin/python /Users/joetruncale/IdeaProjects/maps-reviews/app.py
+---------------BEGIN----------------
+
+Location was convenient, but very sketchy. Did not feel safe walking dogs or going to and from the car. A lot of people were loitering around the parking lot.
+Kids loved the room because it had arcade games and bunk beds. We (adults) did not enjoy the room. There were lockers, but that was the only storage. No dressers or drawers or even shelves to store clothes and belongings. No closet. Toilet seat was only attached on one side. Shower handle was broken, and drain was finicky. The tub would fill while showering. There was a nice full size refrigerator and microwave. The sheets and pillowcases had black marks on them, and the blankets had holes, perhaps from cigarette burns. The room was infested with ants, and we saw many cockroaches. We returned one evening and could smell where bug spray had been used. The wifi was unusable. It was slow and spotty. There was a serious lack of usable plugs in the room. We had to utilize the bathroom plugs to charge phones and unplug the lamp to have an extra plug to access.
+-----------------------------------
+
+Representative name for the entity: Location
+Entity type: LOCATION
+Salience score: 0.12091736495494843
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: Location
+Mention type: COMMON
+Representative name for the entity: adults
+Entity type: PERSON
+Salience score: 0.0889984518289566
+Entity sentiment score: -0.8999999761581421
+Entity sentiment magnitude: 1.7999999523162842
+-----------------------------
+
+Mention text: adults
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.07722862809896469
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 1.600000023841858
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 0.059053268283605576
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: dogs
+Entity type: OTHER
+Salience score: 0.0522182360291481
+Entity sentiment score: -0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: dogs
+Mention type: COMMON
+Representative name for the entity: car
+Entity type: CONSUMER_GOOD
+Salience score: 0.0522182360291481
+Entity sentiment score: -0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: car
+Mention type: COMMON
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.05196169391274452
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: people
+Mention type: COMMON
+Representative name for the entity: storage
+Entity type: OTHER
+Salience score: 0.04148947447538376
+Entity sentiment score: 0.10000000149011612
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: storage
+Mention type: COMMON
+Representative name for the entity: pillowcases
+Entity type: CONSUMER_GOOD
+Salience score: 0.03104446642100811
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: pillowcases
+Mention type: COMMON
+Representative name for the entity: Kids
+Entity type: PERSON
+Salience score: 0.030662663280963898
+Entity sentiment score: 0.6000000238418579
+Entity sentiment magnitude: 0.6000000238418579
+-----------------------------
+
+Mention text: Kids
+Mention type: COMMON
+Representative name for the entity: parking lot
+Entity type: LOCATION
+Salience score: 0.022537607699632645
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: parking lot
+Mention type: COMMON
+Representative name for the entity: arcade games
+Entity type: CONSUMER_GOOD
+Salience score: 0.019737815484404564
+Entity sentiment score: 0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: arcade games
+Mention type: COMMON
+Representative name for the entity: bunk beds
+Entity type: OTHER
+Salience score: 0.019737815484404564
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: bunk beds
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.017375623807311058
+Entity sentiment score: -0.8999999761581421
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: drain
+Entity type: OTHER
+Salience score: 0.015086786821484566
+Entity sentiment score: -0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: drain
+Mention type: COMMON
+Representative name for the entity: refrigerator
+Entity type: CONSUMER_GOOD
+Salience score: 0.01381408330053091
+Entity sentiment score: 0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: refrigerator
+Mention type: COMMON
+Representative name for the entity: closet
+Entity type: OTHER
+Salience score: 0.01338112447410822
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: closet
+Mention type: COMMON
+Representative name for the entity: side
+Entity type: OTHER
+Salience score: 0.0133617939427495
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: side
+Mention type: COMMON
+Representative name for the entity: Toilet seat
+Entity type: OTHER
+Salience score: 0.0133617939427495
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: Toilet seat
+Mention type: COMMON
+Representative name for the entity: Shower handle
+Entity type: OTHER
+Salience score: 0.01334452535957098
+Entity sentiment score: -0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: Shower handle
+Mention type: COMMON
+Representative name for the entity: sheets
+Entity type: CONSUMER_GOOD
+Salience score: 0.013301621191203594
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: sheets
+Mention type: COMMON
+Representative name for the entity: blankets
+Entity type: OTHER
+Salience score: 0.013301621191203594
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: blankets
+Mention type: COMMON
+Representative name for the entity: clothes
+Entity type: OTHER
+Salience score: 0.013239567168056965
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: clothes
+Mention type: COMMON
+Representative name for the entity: shelves
+Entity type: OTHER
+Salience score: 0.013239567168056965
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: shelves
+Mention type: COMMON
+Representative name for the entity: drawers
+Entity type: OTHER
+Salience score: 0.013239567168056965
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: drawers
+Mention type: COMMON
+Representative name for the entity: dressers
+Entity type: OTHER
+Salience score: 0.013239567168056965
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: dressers
+Mention type: COMMON
+Representative name for the entity: belongings
+Entity type: OTHER
+Salience score: 0.013239567168056965
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: belongings
+Mention type: COMMON
+Representative name for the entity: microwave
+Entity type: CONSUMER_GOOD
+Salience score: 0.012218314222991467
+Entity sentiment score: 0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: microwave
+Mention type: COMMON
+Representative name for the entity: marks
+Entity type: OTHER
+Salience score: 0.012206312268972397
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: marks
+Mention type: COMMON
+Representative name for the entity: bug spray
+Entity type: CONSUMER_GOOD
+Salience score: 0.011889306828379631
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: bug spray
+Mention type: COMMON
+Representative name for the entity: plugs
+Entity type: OTHER
+Salience score: 0.010432885028421879
+Entity sentiment score: -0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: plugs
+Mention type: COMMON
+Representative name for the entity: wifi
+Entity type: OTHER
+Salience score: 0.010378648526966572
+Entity sentiment score: -0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: wifi
+Mention type: COMMON
+Representative name for the entity: lack
+Entity type: OTHER
+Salience score: 0.010363643057644367
+Entity sentiment score: -0.6000000238418579
+Entity sentiment magnitude: 0.6000000238418579
+-----------------------------
+
+Mention text: lack
+Mention type: COMMON
+Representative name for the entity: tub
+Entity type: OTHER
+Salience score: 0.009685631841421127
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: tub
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.008600599132478237
+Entity sentiment score: -0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: plug
+Entity type: OTHER
+Salience score: 0.0072110737673938274
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: plug
+Mention type: COMMON
+Representative name for the entity: bathroom
+Entity type: LOCATION
+Salience score: 0.006412770599126816
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: bathroom
+Mention type: COMMON
+Representative name for the entity: phones
+Entity type: CONSUMER_GOOD
+Salience score: 0.006412770599126816
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: phones
+Mention type: COMMON
+Representative name for the entity: lamp
+Entity type: CONSUMER_GOOD
+Salience score: 0.006412770599126816
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: lamp
+Mention type: COMMON
+Representative name for the entity: lockers
+Entity type: OTHER
+Salience score: 0.0058948807418346405
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: lockers
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.005407008342444897
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: holes
+Entity type: OTHER
+Salience score: 0.004037052858620882
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: holes
+Mention type: COMMON
+Representative name for the entity: cigarette burns
+Entity type: OTHER
+Salience score: 0.004037052858620882
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: cigarette burns
+Mention type: COMMON
+Representative name for the entity: cockroaches
+Entity type: OTHER
+Salience score: 0.004033373203128576
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: cockroaches
+Mention type: COMMON
+Representative name for the entity: ants
+Entity type: OTHER
+Salience score: 0.004033373203128576
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 0.5
+-----------------------------
+
+Mention text: ants
+Mention type: COMMON
+Language of the text: en
+-----------------------------
+
+---------------BEGIN----------------
+
+A quick overnight! It is what it is . The staff was great. The place was busy  that too makes it satisfactory. Basic bed and TV. Sleep and go. And a quick coffee for the car.  Needs updating and the 3rd floor corridor has an odor that need attention. Met the manager when I checked out. A very kind nice man. Told him about the odor he was well aware. Overall a decent stay!
+-----------------------------------
+
+Representative name for the entity: odor
+Entity type: OTHER
+Salience score: 0.15688170492649078
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 1.100000023841858
+-----------------------------
+
+Mention text: odor
+Mention type: COMMON
+Representative name for the entity: man
+Entity type: PERSON
+Salience score: 0.11395245045423508
+Entity sentiment score: 0.20000000298023224
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: man
+Mention type: COMMON
+Representative name for the entity: staff
+Entity type: PERSON
+Salience score: 0.0994587242603302
+Entity sentiment score: 0.8999999761581421
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: staff
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.09911242872476578
+Entity sentiment score: 0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: floor corridor
+Entity type: LOCATION
+Salience score: 0.06421198695898056
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: floor corridor
+Mention type: COMMON
+Representative name for the entity: coffee
+Entity type: OTHER
+Salience score: 0.059777919203042984
+Entity sentiment score: 0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: coffee
+Mention type: COMMON
+Representative name for the entity: car
+Entity type: CONSUMER_GOOD
+Salience score: 0.059777919203042984
+Entity sentiment score: 0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: car
+Mention type: COMMON
+Representative name for the entity: Needs
+Entity type: OTHER
+Salience score: 0.05968060344457626
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: Needs
+Mention type: COMMON
+Representative name for the entity: bed
+Entity type: OTHER
+Salience score: 0.0592958964407444
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: bed
+Mention type: COMMON
+Representative name for the entity: TV
+Entity type: OTHER
+Salience score: 0.0592958964407444
+Entity sentiment score: 0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: TV
+Mention type: COMMON
+Representative name for the entity: Sleep
+Entity type: OTHER
+Salience score: 0.059164125472307205
+Entity sentiment score: 0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: Sleep
+Mention type: COMMON
+Representative name for the entity: odor
+Entity type: OTHER
+Salience score: 0.0468732975423336
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: odor
+Mention type: COMMON
+Representative name for the entity: stay
+Entity type: EVENT
+Salience score: 0.028851676732301712
+Entity sentiment score: 0.8999999761581421
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: stay
+Mention type: COMMON
+Representative name for the entity: manager
+Entity type: PERSON
+Salience score: 0.018161894753575325
+Entity sentiment score: 0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: manager
+Mention type: COMMON
+Representative name for the entity: attention
+Entity type: OTHER
+Salience score: 0.015503473579883575
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: attention
+Mention type: COMMON
+Language of the text: en
+-----------------------------
+
+---------------BEGIN----------------
+
+The room needs updating.  Bad paint, old dirty carpets need to be removed. The room is dark and smells musty.  The breakfast was not a breakfast at all.  I wouldn't eat anything there.  Green oranges are not my thing.  Cereal bars have too much sugar.  Sugary muffins with processed preservatives is not for me. The man at the front desk was very nice.  I liked him. I liked the picture above the front desk.  The location was good.
+-----------------------------------
+
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.2465682327747345
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: desk
+Entity type: OTHER
+Salience score: 0.11173173785209656
+Entity sentiment score: 0.5
+Entity sentiment magnitude: 1.100000023841858
+-----------------------------
+
+Mention text: desk
+Mention type: COMMON
+Mention text: desk
+Mention type: COMMON
+Representative name for the entity: carpets
+Entity type: OTHER
+Salience score: 0.10855881869792938
+Entity sentiment score: -0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: carpets
+Mention type: COMMON
+Representative name for the entity: paint
+Entity type: OTHER
+Salience score: 0.10855881869792938
+Entity sentiment score: -0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: paint
+Mention type: COMMON
+Representative name for the entity: man
+Entity type: PERSON
+Salience score: 0.08414050191640854
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 1.7000000476837158
+-----------------------------
+
+Mention text: man
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.056831564754247665
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 0.5
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: breakfast
+Entity type: OTHER
+Salience score: 0.03613366186618805
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: breakfast
+Mention type: COMMON
+Representative name for the entity: thing
+Entity type: OTHER
+Salience score: 0.03571895509958267
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: thing
+Mention type: COMMON
+Representative name for the entity: breakfast
+Entity type: EVENT
+Salience score: 0.03483676165342331
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: breakfast
+Mention type: COMMON
+Representative name for the entity: muffins
+Entity type: OTHER
+Salience score: 0.031126616522669792
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: muffins
+Mention type: COMMON
+Representative name for the entity: anything
+Entity type: OTHER
+Salience score: 0.028393348678946495
+Entity sentiment score: -0.6000000238418579
+Entity sentiment magnitude: 0.6000000238418579
+-----------------------------
+
+Mention text: anything
+Mention type: COMMON
+Representative name for the entity: oranges
+Entity type: OTHER
+Salience score: 0.027646636590361595
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: oranges
+Mention type: COMMON
+Representative name for the entity: sugar
+Entity type: CONSUMER_GOOD
+Salience score: 0.025644177570939064
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: sugar
+Mention type: COMMON
+Representative name for the entity: Cereal bars
+Entity type: OTHER
+Salience score: 0.025024915114045143
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: Cereal bars
+Mention type: COMMON
+Representative name for the entity: location
+Entity type: LOCATION
+Salience score: 0.015421975404024124
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: location
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.015064475126564503
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: preservatives
+Entity type: OTHER
+Salience score: 0.008598795160651207
+Entity sentiment score: -0.10000000149011612
+Entity sentiment magnitude: 0.10000000149011612
+-----------------------------
+
+Mention text: preservatives
+Mention type: COMMON
+Language of the text: en
+-----------------------------
+
+---------------BEGIN----------------
+
+I booked a room here for just overnight to stop over on long drive back home from VA to northern NY. The staff that checked me in and out were very pleasant and courteous. The hotel was cleaner than the one I stayed in Fredericksburg VA prior to this stop. The beds were softer which was nice for me. It was quiet and I felt very safe with the extra lock on the door.  I think other super 8 hotels should learn from this one.
+-----------------------------------
+
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.3054507076740265
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: drive
+Entity type: EVENT
+Salience score: 0.13251981139183044
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: drive
+Mention type: COMMON
+Representative name for the entity: home
+Entity type: LOCATION
+Salience score: 0.13251981139183044
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: home
+Mention type: COMMON
+Representative name for the entity: VA
+Entity type: ORGANIZATION
+Salience score: 0.0899849608540535
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+wikipedia_url = https://en.wikipedia.org/wiki/Virginia
+mid = /m/07z1m
+Mention text: VA
+Mention type: PROPER
+Representative name for the entity: NY
+Entity type: LOCATION
+Salience score: 0.07921551167964935
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+mid = /m/059rby
+wikipedia_url = https://en.wikipedia.org/wiki/New_York_(state)
+Mention text: NY
+Mention type: PROPER
+Representative name for the entity: hotel
+Entity type: LOCATION
+Salience score: 0.05651473253965378
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: hotel
+Mention type: COMMON
+Representative name for the entity: stop
+Entity type: LOCATION
+Salience score: 0.040398016571998596
+Entity sentiment score: 0.6000000238418579
+Entity sentiment magnitude: 0.6000000238418579
+-----------------------------
+
+Mention text: stop
+Mention type: COMMON
+Representative name for the entity: beds
+Entity type: OTHER
+Salience score: 0.04035066068172455
+Entity sentiment score: 0.699999988079071
+Entity sentiment magnitude: 1.5
+-----------------------------
+
+Mention text: beds
+Mention type: COMMON
+Representative name for the entity: lock
+Entity type: OTHER
+Salience score: 0.030307207256555557
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: lock
+Mention type: COMMON
+Representative name for the entity: door
+Entity type: OTHER
+Salience score: 0.030307207256555557
+Entity sentiment score: 0.699999988079071
+Entity sentiment magnitude: 0.699999988079071
+-----------------------------
+
+Mention text: door
+Mention type: COMMON
+Representative name for the entity: Fredericksburg VA
+Entity type: LOCATION
+Salience score: 0.02725088782608509
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+wikipedia_url = https://en.wikipedia.org/wiki/Fredericksburg,_Virginia
+mid = /m/0mnwd
+Mention text: Fredericksburg VA
+Mention type: PROPER
+Representative name for the entity: staff
+Entity type: PERSON
+Salience score: 0.019477756693959236
+Entity sentiment score: 0.5
+Entity sentiment magnitude: 0.5
+-----------------------------
+
+Mention text: staff
+Mention type: COMMON
+Representative name for the entity: hotels
+Entity type: LOCATION
+Salience score: 0.015702739357948303
+Entity sentiment score: 0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: hotels
+Mention type: COMMON
+Language of the text: en
+-----------------------------
+
+---------------BEGIN----------------
+
+➕ Front desk staff was nice
+
+TLDR: do yourself a favor, save your money, and do NOT book here
+➖ The room REEKED of cigarette smoke, like someone had been chain smoking in there all day before we checked in. I tried fleeing to the bathroom to avoid the smell that was on the linens, but the bathtub was moldy and had hair in it and the toilet smelled like it hadn’t been cleaned. Couldn’t even stay the night, checked out a few hours after getting in. NOT what I wanted after being on the road all day. I’m at another hotel and the smell is still stuck in my nose. They don’t offer refunds after you check in and now we know why. It’s cheap, but not that much cheaper. Go somewhere else 🤮
+-----------------------------------
+
+Representative name for the entity: desk staff
+Entity type: PERSON
+Salience score: 0.1753467619419098
+Entity sentiment score: 0.800000011920929
+Entity sentiment magnitude: 0.800000011920929
+-----------------------------
+
+Mention text: desk staff
+Mention type: COMMON
+Representative name for the entity: chain smoking
+Entity type: OTHER
+Salience score: 0.12401211261749268
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: REEKED
+Mention type: COMMON
+Mention text: chain smoking
+Mention type: COMMON
+Representative name for the entity: favor
+Entity type: OTHER
+Salience score: 0.09605150669813156
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: favor
+Mention type: COMMON
+Representative name for the entity: Front
+Entity type: OTHER
+Salience score: 0.09372500330209732
+Entity sentiment score: 0.8999999761581421
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: Front
+Mention type: PROPER
+Representative name for the entity: money
+Entity type: OTHER
+Salience score: 0.07642781734466553
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: money
+Mention type: COMMON
+Representative name for the entity: smell
+Entity type: OTHER
+Salience score: 0.06401301175355911
+Entity sentiment score: -0.6000000238418579
+Entity sentiment magnitude: 1.2000000476837158
+-----------------------------
+
+Mention text: smell
+Mention type: COMMON
+Representative name for the entity: hair
+Entity type: OTHER
+Salience score: 0.050507597625255585
+Entity sentiment score: -0.6000000238418579
+Entity sentiment magnitude: 1.2000000476837158
+-----------------------------
+
+Mention text: hair
+Mention type: COMMON
+Representative name for the entity: toilet
+Entity type: OTHER
+Salience score: 0.050507597625255585
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 1.100000023841858
+-----------------------------
+
+Mention text: toilet
+Mention type: COMMON
+Representative name for the entity: TLDR
+Entity type: OTHER
+Salience score: 0.04553663358092308
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: TLDR
+Mention type: PROPER
+Representative name for the entity: cigarette smoke
+Entity type: OTHER
+Salience score: 0.03328395262360573
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: cigarette smoke
+Mention type: COMMON
+Representative name for the entity: room
+Entity type: LOCATION
+Salience score: 0.029263116419315338
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: room
+Mention type: COMMON
+Representative name for the entity: someone
+Entity type: PERSON
+Salience score: 0.029263116419315338
+Entity sentiment score: -0.4000000059604645
+Entity sentiment magnitude: 0.4000000059604645
+-----------------------------
+
+Mention text: someone
+Mention type: COMMON
+Representative name for the entity: bathtub
+Entity type: OTHER
+Salience score: 0.025623667985200882
+Entity sentiment score: -0.6000000238418579
+Entity sentiment magnitude: 0.6000000238418579
+-----------------------------
+
+Mention text: bathtub
+Mention type: COMMON
+Representative name for the entity: bathroom
+Entity type: LOCATION
+Salience score: 0.02239656075835228
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 0.5
+-----------------------------
+
+Mention text: bathroom
+Mention type: COMMON
+Representative name for the entity: linens
+Entity type: CONSUMER_GOOD
+Salience score: 0.019926443696022034
+Entity sentiment score: -0.5
+Entity sentiment magnitude: 0.5
+-----------------------------
+
+Mention text: linens
+Mention type: COMMON
+Representative name for the entity: smell
+Entity type: OTHER
+Salience score: 0.015565015375614166
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: smell
+Mention type: COMMON
+Representative name for the entity: nose
+Entity type: OTHER
+Salience score: 0.013676605187356472
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: nose
+Mention type: COMMON
+Representative name for the entity: refunds
+Entity type: OTHER
+Salience score: 0.013319775462150574
+Entity sentiment score: -0.30000001192092896
+Entity sentiment magnitude: 0.30000001192092896
+-----------------------------
+
+Mention text: refunds
+Mention type: COMMON
+Representative name for the entity: somewhere
+Entity type: LOCATION
+Salience score: 0.009531543590128422
+Entity sentiment score: 0.0
+Entity sentiment magnitude: 0.0
+-----------------------------
+
+Mention text: somewhere
+Mention type: COMMON
+Representative name for the entity: road
+Entity type: LOCATION
+Salience score: 0.006017815321683884
+Entity sentiment score: -0.8999999761581421
+Entity sentiment magnitude: 0.8999999761581421
+-----------------------------
+
+Mention text: road
+Mention type: COMMON
+Representative name for the entity: hotel
+Entity type: LOCATION
+Salience score: 0.006004337687045336
+Entity sentiment score: -0.20000000298023224
+Entity sentiment magnitude: 0.20000000298023224
+-----------------------------
+
+Mention text: hotel
+Mention type: COMMON
+Language of the text: en
+-----------------------------
