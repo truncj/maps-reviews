@@ -1,13 +1,14 @@
-### Maps Reviews
+# Maps Reviews
 
-## How to use
+### How to use
 
 ```
 app.py --address "search query for location" --api-key YOUR_MAPS_API_KEY
 ```
 
-## Sample outpt
+### Sample outpt
 
+```
 ---------------BEGIN----------------
 
 ➕ Front desk staff was nice
